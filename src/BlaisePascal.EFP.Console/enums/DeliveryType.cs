@@ -1,4 +1,4 @@
-﻿namespace BlaisePascal.EFP.Domain
+﻿namespace BlaisePascal.EFP.Console
 {
     public enum DeliveryType
     {
