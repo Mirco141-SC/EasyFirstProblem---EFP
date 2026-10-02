@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/doc/" />
+  <Folder Name="/src/">
+    <Project Path="src/BlaisePascal.EFP.Console/BlaisePascal.EFP.Console.csproj" />
+  </Folder>
+  <Folder Name="/test/" />
+</Solution>
